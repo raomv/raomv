@@ -24,8 +24,6 @@
 - Python
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
-
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)
