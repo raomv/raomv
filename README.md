@@ -2,11 +2,7 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raul-marti/)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raoulmv@gmail.com)
-
-[![Github](https://img.shields.io/github/followers/raomv?label=Follow&style=social)](https://github.com/raomv)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raul-marti/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raoulmv@gmail.com) [![Github](https://img.shields.io/github/followers/raomv?label=Follow&style=social)](https://github.com/raomv)
 
 - 💻 Skilled in C++ and knowledgeable in electronic warfare/electronic countermeasures and sonar systems.
 - ⚓ Working on software for the advanced S80 Plus submarines of the Spanish Navy.
